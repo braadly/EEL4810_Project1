@@ -10,7 +10,7 @@ This brain tumor dataset contains 7897 JPEG images of MRI scans of brains wconta
 The main model training program is "Group4NN_Final_Main_Model_Training.ipynb"
 
 ## Running
-The fully trained main model is available at the following link: https://drive.google.com/file/d/1mXFxq8xzdRrU5r-0_gSKrSB2AO_pzdMl/view?usp=drive_link
+The fully trained main model is available at the following link: [https://drive.google.com/file/d/1mXFxq8xzdRrU5r-0_gSKrSB2AO_pzdMl/view?usp=drive_link](https://drive.google.com/file/d/14rW98msl9cims0yL7gqI8J8HsPiCR-fm/view?usp=sharing)
 
 To test the model with a specific image, and open the file "Group4NN_Main_Model_Load.ipynb". 
 At the bottom of the last section write a function of the form "classify_image('image_path_here.png')", where "image_path_here.png" is the link to an image in your google drive.
