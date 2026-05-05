@@ -1,0 +1,9 @@
+Requirements:
+
+- The "Group4NN_Main_Model_Load.ipynb" file
+
+- A Google Drive
+
+- The main model file from the link listed in the README.txt
+
+- At leat one preprocessed image, which you can make your own, or get one from the link listed in the README.txt
